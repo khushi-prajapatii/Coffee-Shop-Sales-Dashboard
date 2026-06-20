@@ -10,7 +10,7 @@ The dashboard provides interactive insights that help answer important business 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
