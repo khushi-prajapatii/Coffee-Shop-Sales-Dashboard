@@ -110,17 +110,4 @@ This dashboard answers the following business questions:
 - Dashboard.png
 - README.md
 
----
 
-## Author
-
-Khushi
-
-Master's Student in Data Science and AI
-
-Currently learning:
-- Excel
-- SQL
-- Tableau
-- Data Analysis
-- Business Analytics
