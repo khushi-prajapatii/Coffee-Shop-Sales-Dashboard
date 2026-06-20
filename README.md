@@ -106,8 +106,8 @@ This dashboard answers the following business questions:
 
 ## Files Included
 
-- Coffee Shop Sales Dashboard.xlsx
-- dashboard.png
+- Coffee Shop Sales.xlsx
+- Dashboard.png
 - README.md
 
 ---
